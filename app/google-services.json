@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "11400952278",
+    "project_id": "sighn-f5bdb",
+    "storage_bucket": "sighn-f5bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11400952278:android:f49422ed5747d7301d8c77",
+        "android_client_info": {
+          "package_name": "com.example.googleregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11400952278-09bv944sbhig3eas2ts1jno9q9ija9ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googleregistration",
+            "certificate_hash": "ed07b1094ad4eac59033554a5d6058b5a4f37cdf"
+          }
+        },
+        {
+          "client_id": "11400952278-5vk35fq648vcmivvjj7nc2uo1mauuajh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAtevhW0jDBy8r30eqVQjXRYVzZwr51w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11400952278-5vk35fq648vcmivvjj7nc2uo1mauuajh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
